@@ -11,3 +11,8 @@ Build Status
 
 [![Appveyor build status](https://ci.appveyor.com/api/projects/status/github/ashkulz/nppftp?branch=master&svg=true)](https://ci.appveyor.com/project/ashkulz/nppftp)
 [![GitHub release](https://img.shields.io/github/release/ashkulz/NppFTP.svg)](https://github.com/ashkulz/NppFTP/releases)
+
+
+Notepad++\plugins\NppFTP là chạy được ngon lành. Cấu trúc thư mục:
+Notepad++\plugins\NppFTP\doc\
+Notepad++\plugins\NppFTP\NppFTP.dll
